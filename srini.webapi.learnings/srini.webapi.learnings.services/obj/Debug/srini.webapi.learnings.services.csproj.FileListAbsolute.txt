@@ -1,0 +1,11 @@
+D:\DotNetProjects\webapi\srini.webapi.learnings\srini.webapi.learnings.services\bin\Debug\srini.webapi.learnings.services.dll
+D:\DotNetProjects\webapi\srini.webapi.learnings\srini.webapi.learnings.services\bin\Debug\srini.webapi.learnings.services.pdb
+D:\DotNetProjects\webapi\srini.webapi.learnings\srini.webapi.learnings.services\bin\Debug\srini.webapi.learnings.data.dll
+D:\DotNetProjects\webapi\srini.webapi.learnings\srini.webapi.learnings.services\bin\Debug\srini.webapi.learnings.domain.dll
+D:\DotNetProjects\webapi\srini.webapi.learnings\srini.webapi.learnings.services\bin\Debug\EntityFramework.dll
+D:\DotNetProjects\webapi\srini.webapi.learnings\srini.webapi.learnings.services\bin\Debug\srini.webapi.learnings.data.pdb
+D:\DotNetProjects\webapi\srini.webapi.learnings\srini.webapi.learnings.services\bin\Debug\srini.webapi.learnings.domain.pdb
+D:\DotNetProjects\webapi\srini.webapi.learnings\srini.webapi.learnings.services\bin\Debug\EntityFramework.xml
+D:\DotNetProjects\webapi\srini.webapi.learnings\srini.webapi.learnings.services\obj\Debug\srini.webapi.learnings.services.csprojResolveAssemblyReference.cache
+D:\DotNetProjects\webapi\srini.webapi.learnings\srini.webapi.learnings.services\obj\Debug\srini.webapi.learnings.services.dll
+D:\DotNetProjects\webapi\srini.webapi.learnings\srini.webapi.learnings.services\obj\Debug\srini.webapi.learnings.services.pdb

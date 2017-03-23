@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srini.webapi.learnings", "srini.webapi.learnings\srini.webapi.learnings.csproj", "{1CCE237B-468D-49A8-8F75-73894546B81C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srini.webapi.learnings.Tests", "srini.webapi.learnings.Tests\srini.webapi.learnings.Tests.csproj", "{17C55FA9-740F-4A95-9FFF-11D3121A70E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srini.webapi.learnings.domain", "srini.webapi.learnings.domain\srini.webapi.learnings.domain.csproj", "{7A46D907-A6B4-48D4-99D4-A6D8B70AC879}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srini.webapi.learnings.data", "srini.webapi.learnings.data\srini.webapi.learnings.data.csproj", "{DC079600-CB83-449A-8F5A-0F0555D796D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srini.webapi.learnings.services", "srini.webapi.learnings.services\srini.webapi.learnings.services.csproj", "{7E3C45BE-A333-4112-9475-D19E985DC543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "srini.webapi.learnings.presentation", "srini.webapi.learnings.presentation\srini.webapi.learnings.presentation.csproj", "{9AF82CF3-3A11-4C4C-BB77-0498781AFBDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CCE237B-468D-49A8-8F75-73894546B81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CCE237B-468D-49A8-8F75-73894546B81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CCE237B-468D-49A8-8F75-73894546B81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CCE237B-468D-49A8-8F75-73894546B81C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17C55FA9-740F-4A95-9FFF-11D3121A70E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17C55FA9-740F-4A95-9FFF-11D3121A70E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17C55FA9-740F-4A95-9FFF-11D3121A70E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17C55FA9-740F-4A95-9FFF-11D3121A70E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A46D907-A6B4-48D4-99D4-A6D8B70AC879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A46D907-A6B4-48D4-99D4-A6D8B70AC879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A46D907-A6B4-48D4-99D4-A6D8B70AC879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A46D907-A6B4-48D4-99D4-A6D8B70AC879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC079600-CB83-449A-8F5A-0F0555D796D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC079600-CB83-449A-8F5A-0F0555D796D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC079600-CB83-449A-8F5A-0F0555D796D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC079600-CB83-449A-8F5A-0F0555D796D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E3C45BE-A333-4112-9475-D19E985DC543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3C45BE-A333-4112-9475-D19E985DC543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3C45BE-A333-4112-9475-D19E985DC543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3C45BE-A333-4112-9475-D19E985DC543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AF82CF3-3A11-4C4C-BB77-0498781AFBDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF82CF3-3A11-4C4C-BB77-0498781AFBDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF82CF3-3A11-4C4C-BB77-0498781AFBDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF82CF3-3A11-4C4C-BB77-0498781AFBDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

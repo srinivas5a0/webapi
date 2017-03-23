@@ -1,0 +1,5 @@
+D:\DotNetProjects\webapi\srini.webapi.learnings\srini.webapi.learnings.domain\bin\Debug\srini.webapi.learnings.domain.dll
+D:\DotNetProjects\webapi\srini.webapi.learnings\srini.webapi.learnings.domain\bin\Debug\srini.webapi.learnings.domain.pdb
+D:\DotNetProjects\webapi\srini.webapi.learnings\srini.webapi.learnings.domain\obj\Debug\srini.webapi.learnings.domain.dll
+D:\DotNetProjects\webapi\srini.webapi.learnings\srini.webapi.learnings.domain\obj\Debug\srini.webapi.learnings.domain.pdb
+D:\DotNetProjects\webapi\srini.webapi.learnings\srini.webapi.learnings.domain\obj\Debug\srini.webapi.learnings.domain.csprojResolveAssemblyReference.cache
